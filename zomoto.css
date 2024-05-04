@@ -1,0 +1,484 @@
+.pizza {
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+    height: 470px;
+    padding: 20px;
+    width: auto;
+    
+  }
+  h5{
+    display: inline-block;
+  }
+
+  .nav {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    bottom: 50px;
+    right: 80px;
+
+
+  }
+  .bar {
+    padding: 20px;
+    position: relative;
+    right: 70px;
+    bottom: 20px;
+    color: white;
+    font-size: 15px;
+  }
+  h5 {
+    position: relative;
+    bottom: 10px;
+    left: 80px;
+    color: white;
+  }
+  .zoma {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+  }
+  .dis {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin: 40px;
+  }
+  .chen {
+    display: flex;
+    justify-content: center;
+    padding: 14px;
+    width: 230px;
+    margin: 20px;
+  padding-left: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  input {
+    width: 550px;
+    position: relative;
+    top: 21px;
+    right: 21px;
+    border: none;
+  
+    outline: none;
+
+
+    padding: 15px;
+  }
+  .loc {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 30px;
+    margin: 40px;
+  }
+  .curr {
+    padding: 500px;
+    font-size: 40px;
+    color: red;
+  }
+  .pics {
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+  }
+  .line {
+    background-color: white;
+    position: relative;
+    bottom: 80px;
+    height: 74px;
+    border: 1px solid;
+    border-top: none;
+    border-color: rgba(0, 0, 0, 0.13);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .pic {
+    padding: 10px;
+  }
+  .im {
+    border-radius: 20px;
+    height: 250px;
+    width: 340px;
+  }
+  .orde {
+    position: relative;
+    left: 8px;
+    padding: 10px;
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.712);
+  }
+  .stay {
+    position: relative;
+    bottom: 30px;
+    left: 20px;
+    color: rgba(0, 0, 0, 0.568);
+  }
+  .coll {
+    position: relative;
+    left: 150px;
+    bottom: 70px;
+    display: inline-block;
+  }
+  .co {
+    font-size: 45px;
+    color: rgba(0, 0, 0, 0.842);
+  }
+  .straight {
+    display: flex;
+    font-size: 20px;
+    position: relative;
+    bottom: 50px;
+    color: rgba(0, 0, 0, 0.637);
+   
+  }
+  .all {
+    display: inline-block;
+    color: red;
+    position: relative;
+    left: 40px;
+  }
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+
+ 
+    
+    }
+    .avif{ display: flex;
+      justify-content: center;
+      position: relative;
+      bottom: 70px;
+      
+     
+    
+      
+
+    }
+    .si{
+      padding: 5px;
+      border-radius: 10px;
+      position: relative;
+      bottom: 40px;
+      height: 300px;
+      width: 270px;
+      
+    }
+    .sub{
+      position: relative;
+      bottom: 130px;
+      left: 20px;
+      font-size: 20px;
+      color: white;
+
+    }
+    .pl{
+      position: relative;
+      bottom: 15px;
+    }
+    .po{
+         color: rgba(0, 0, 0, 0.534);
+         position: relative;
+         bottom: 100px;
+         left: 120px;
+         display: inline-block;
+      
+    }
+    .places{
+      display: flex;
+      justify-content: center;
+     position: relative;
+     bottom: 100px;
+     
+    
+    
+
+    }
+    .nagar{
+      border: 2px solid;
+      border-color: rgba(0, 0, 0, 0.158);
+     border-radius: 5px;
+      margin: 10px;
+      width: 310px;
+      height: 30px;
+      padding: 20px;
+      
+      
+      
+    }
+    .t{
+      position: relative;
+      bottom: 20px;
+    }
+    .p{
+      position: relative;
+      bottom: 25px;
+      color: rgba(0, 0, 0, 0.644);
+    }
+     #small{
+       position: relative;
+       left: 220px;
+       bottom: 20px;          
+       font-size: 9px;
+       color: rgba(0, 0, 0, 0.623);
+     }
+   
+     
+    .ra{
+      width: 50px;
+      height: 20px;
+    }
+    .ne{
+      width: 40px;
+      height: 20px;
+    }
+         
+     
+     .mai
+         {position: relative;
+          bottom: 20px;
+          left: 30px;
+
+     }
+     label{
+      position: relative;
+      right: 25px;
+      top: 15px;
+      color: rgba(0, 0, 0, 0.555);
+     }
+     .shar{
+       width: 270px;
+       border: 1px solid;
+       border-radius: 10px;
+     }
+     .li{
+       padding: 15px ;
+       width: 170px;
+       background-color: rgba(255, 0, 0, 0.836);
+       border: none;
+       outline: none;
+       border-radius: 10px;
+       position: relative;
+       top: 20px;
+       right: 15px;
+       color: white;
+     }
+     .play{
+       position: relative;
+       top: 40px;
+       
+
+     }
+     .it{
+      height: 60px;
+     }
+     .on{
+      height: 60px;
+     }
+     .side{
+      position: relative;
+      display: flex;
+      background-color: rgba(255, 166, 0, 0.055);
+     }
+     .move{
+      position: relative;
+      left: 300px;
+     }
+     .near{
+      position: relative;
+      top: 40px;
+     }
+     .download{
+       position: relative;
+       top: 35px;
+       color: rgba(0, 0, 0, 0.39);
+     }
+     .whole{
+      position: relative;
+      left: 20px;
+      top: 10px;
+     }
+     .will{
+      color: rgba(0, 0, 0, 0.514);
+     }
+     .the{
+      color: rgba(0, 0, 0, 0.514);
+     }
+     .bor4{
+       position: relative;
+       top: 150px;
+       left: 100px;
+       display: inline-block;
+
+     }
+     .explore{
+      border: 1px solid;
+      border-color: rgba(0, 0, 0, 0.137);
+      margin: 20px;
+      width: 1040px;
+      padding: 20px;
+     }
+     .smz{
+      position: relative;
+      top: 220px;
+      height: 30px;
+      width: 20px;
+      left: 100px;
+      display: flex;
+   
+     }
+     .in{
+       text-align: center;
+       position: relative;
+       bottom: 20px;
+       right: 8px;
+       
+     }
+     .englishbox{
+      border: 1px solid;
+  
+    width: 80px;
+    height: 40px;
+    padding-left: 40px;
+    margin-left: 30px;
+    
+   
+   
+    position: relative;
+    top: 15px;
+   left: 100px;
+ 
+  
+    
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.329);
+     }
+     .en{
+       position: relative;
+       right:20px;
+     }
+     .dou{
+      display:  flex;
+      position: relative;
+      left: 600px;
+     
+     
+     }
+   .lastside{
+    display: flex;
+
+    
+    
+   }
+   .last{
+    position: relative;
+    top: 230px;
+    left: 70px;
+    margin: 50px;
+    
+   }
+   .hh{
+    position: relative;
+    top: 290px;
+   }
+   .ending{
+    position: relative;
+  
+    left: 100px;
+    font-size: 15px;
+    display: inline-block;
+
+   }
+  .ll{font-size: 15px;
+    position: relative;
+    bottom: 10px;
+  }
+  #loccc
+  {
+    
+    font-size: 20px;
+    position: absolute;
+    right: 40px;
+    z-index: 1;
+    padding-right: 910px;
+    padding-top: 30px;
+    margin-right: 55px;  
+    color: rgba(255, 0, 0, 0.712);
+  }
+  .linkdin{
+    display: flex;
+
+  }
+  .store
+  {
+    width: 150px;
+    margin-top: 20px;
+
+  }
+  .goo{
+    width: 150px;
+    margin-top: 10px;
+  }
+  #social{
+    padding: 9px
+  }
+  .flag{
+    width: 20px;
+    height: 15px;
+    position: relative;
+    right: 30px;
+    top: 15px;
+  }
+  .iii
+  {
+    border: 1px solid;
+  
+    width: 80px;
+    height: 40px;
+    padding-left: 40px;
+    
+   
+   
+    position: relative;
+    top: 15px;
+    left: 100px;
+ 
+  
+    
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0.329);
+
+  }
+  #inside
+  {
+     position: relative;
+     bottom: 55px;
+     left: 60px;
+     color: rgba(0, 0, 0, 0.527);
+     font-size: 12px;
+  }
+  #glopeicon{
+    position: relative;
+    bottom: 20px;
+    left: 80px;
+    color: rgba(0, 0, 0, 0.527);
+    font-size: 12px;
+
+  }
+  #enicon{
+    position:relative;
+    right: 10px;
+  }
+  #inputbox {
+    padding-left: 30px;
+  }
+  #see{
+  position: relative;
+  right: 610px;
+  top: 35px;
+  color: rgba(0, 0, 0, 0.411);
+  }
+  
+  
